@@ -1,0 +1,44 @@
+{
+  "name"         : "datacompiler",
+  "noAnalyze"    : false,
+  "preferGlobal" : false,
+  "main"         : "index.js",
+  "version"      : "1.0.0",
+  "license"      : "Public Domain",
+  "author"       : "Russell Klenk <russ@ninjabirdstudios.com>",
+  "description"  : "Data Compiler helper module for node-contentjs",
+  "homepage"     : "https://github.com/ninjabirdstudios/node-datacompiler",
+  "bugs"         : "https://github.com/ninjabirdstudios/node-datacompiler/issues",
+  "contributors" : [
+    {
+      "name"  : "Russell Klenk",
+      "email" : "russ@ninjabirdstudios.com"
+    }
+  ],
+  "repository" : {
+    "type"     : "git",
+    "url"      : "https://github.com/ninjabirdstudios/node-datacompiler.git"
+  },
+  "bin" : {
+  },
+  "scripts" : {
+  },
+  "keywords" : [
+    "asset",
+    "content",
+    "pipeline",
+    "game",
+    "tool",
+    "contentjs"
+  ],
+  "dependencies" : {
+  },
+  "devDependencies" : {
+  },
+  "bundleDependencies" : [
+  ],
+  "engine"  : {
+    "node"  : ">=0.8",
+    "npm"   : ">=1.1.36"
+  }
+}
